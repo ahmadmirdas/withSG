@@ -1,0 +1,69 @@
+{
+    "id": "vikrumb",
+    "profileImage": "vikrumb.jpg",
+    "mainImage": "vikrumb.jpg",
+    "about": {
+        "name": "Vikrum Bala", 
+        "introduction": "I am an ex-national swimmer and an triathlon enthusiast", 
+        "age": 35, 
+        "spokenLanguage": "English, Mandarin, Tamil", 
+        "yearsOfExperience": 12
+    },
+    "services": [ 
+        {
+        "service": "Kids Swimming Lessons",
+        "serviceDescription": ""
+    },
+        {
+        "service": "Competitive Swimming Lessons",         
+        "serviceDescription": ""
+    }, 
+        {
+        "service": "Adult Swimming Lesson",
+        "serviceDescription": ""
+        }
+    ],
+    "accredidations": [
+        {
+            "certification": "National Registry of Coaches",
+            "organisation": "Sport Singapore"
+        },
+        {
+            "certification": "Teacher of Swimming & Water Safety",
+            "organisation": "AustSwim"
+        },
+        {
+            "certification": "Teacher of Towards Competitive Strokes",
+            "organisation": "AustSwim"
+        },
+        {
+            "certification": "Level 1 - Award in Swimming Teaching",
+            "organisation": "Singapore Swimming Teacher's Association"
+        },
+        {
+            "certification": "Level 2 - Certificate in Teaching Swimming",
+            "organisation": "Singapore Swimming Teacher's Association"
+        },
+        {
+            "certification": "Tri-skills Leader",
+            "organisation": "Triathlon Singapore"
+        }
+    ], 
+    "testimonial": [
+        {
+            "rating": 5, 
+            "comment": "Coach Vikrum is very knowledgeable in helping me prep for my race.", 
+            "name": "Gopal"
+        },
+        {
+            "rating": 2, 
+            "comment": "My child doesn't like Teacher Vikrum's class as he was a fairly strict coach." ,
+            "name": "Melody"
+        },
+        {
+            "rating": 5, 
+            "comment": "Coach Vikrum is good at technical stroke corrections.", 
+            "name": "Michael"
+        }
+    ]
+}

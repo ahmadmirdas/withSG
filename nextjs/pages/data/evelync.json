@@ -1,0 +1,69 @@
+{
+    "id": "evelync",
+    "profileImage": "evelync.jpg",
+    "mainImage": "evelync.jpg",
+    "about": {
+        "name": "Evelyn Chan", 
+        "introduction": "Hi, my name is Evelyn! I have been in this industry for 5 years.", 
+        "age": 29, 
+        "spokenLanguage": "English, Mandarin, French, Spanish", 
+        "yearsOfExperience": 5
+    },
+    "services": [ 
+        {
+        "service": "Baby Swimming Lessons",
+        "serviceDescription": ""
+    },
+        {
+        "service": "Toddler Swimming Lessons",         
+        "serviceDescription": ""
+    }, 
+        {
+        "service": "Adults Swimming Lesson",
+        "serviceDescription": ""
+        }
+    ],
+    "accredidations": [
+        {
+            "certification": "Level 1 - Award in Swimming Teaching",
+            "organisation": "Singapore Swimming Teacher's Association"
+        },
+        {
+            "certification": "Level 2 - Certificate in Teaching Swimming",
+            "organisation": "Singapore Swimming Teacher's Association"
+        },
+        {
+            "certification": "Level 2 - Baby & Pre-school Course",
+            "organisation": "Singapore Swimming Teacher's Association"
+        },
+        {
+            "certification": "Teacher of Swimming & Water Safety",
+            "organisation": "AustSwim"
+        },
+        {
+            "certification": "Teacher of Infant & Preschool",
+            "organisation": "AustSwim"
+        },
+        {
+            "certification": "National Registry of Coaches",
+            "organisation": "Sport Singapore"
+        }
+    ], 
+    "testimonial": [
+        {
+            "rating": 5, 
+            "comment": "Teacher Evelyn is a very good infant aquatics instructor.", 
+            "name": "Jamie"
+        },
+        {
+            "rating": 5, 
+            "comment": "My daughter loves teacher Evelyn's class.", 
+            "name": "Sandra"
+        },
+        {
+            "rating": 5, 
+            "comment": "My son is looking forward to teacher Evelyn's lesson every week.", 
+            "name": "Jason"
+        }
+    ]
+}

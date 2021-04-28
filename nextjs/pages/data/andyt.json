@@ -1,0 +1,69 @@
+{
+  "id": "andyt",
+  "profileImage": "andyt.jpg",
+  "mainImage": "andyt.jpg",
+  "about": {
+    "name": "Andy Tan",
+    "introduction": "I have been in the swim coaching field for over 8 years.",
+    "age": 32,
+    "spokenLanguage": "English, Mandarin",
+    "yearsOfExperience": 8
+  },
+  "services": [
+    {
+      "service": "Baby Swimming Lessons",
+      "serviceDescription": "Babies can start swimming at the age of 6 months old."
+    },
+    {
+      "service": "Toddler Swimming Lessons",
+      "serviceDescription": "Toddlers can naturally be acquainted with water at a young age."
+    },
+    {
+      "service": "Kids Swimming Lesson",
+      "serviceDescription": "Kids get to go through the SwimSafer syllabus in this programme."
+    }
+  ],
+  "accreditations": [
+    {
+      "certification": "SwimSafer Instructor",
+      "organisation": "Sport Singapore"
+    },
+    {
+      "certification": "SwimSafer Assesor",
+      "organisation": "Sport Singapore"
+    },
+    {
+      "certification": "Teacher of Swimming & Water Safety",
+      "organisation": "AustSwim"
+    },
+    {
+      "certification": "Teacher of Infant & Preschool",
+      "organisation": "AustSwim"
+    },
+    {
+      "certification": "Teacher of Towards Competitive Strokes",
+      "organisation": "AustSwim"
+    },
+    {
+      "certification": "Teacher of Towards Special Needs",
+      "organisation": "AustSwim"
+    }
+  ],
+  "testimonial": [
+    {
+      "rating": 5,
+      "comment": "Teacher Andy is very patient.",
+      "name": "Michelle"
+    },
+    {
+      "rating": 5,
+      "comment": "Teacher Andy is very caring.",
+      "name": "Alan"
+    },
+    {
+      "rating": 5,
+      "comment": "My kid enjoys his swimming lessons with teacher Andy",
+      "name": "Shirley"
+    }
+  ]
+}

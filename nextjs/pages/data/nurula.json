@@ -1,0 +1,69 @@
+{
+  "id": "nurula",
+  "profileImage": "nurula.jpg",
+  "mainImage": "nurula.jpg",
+  "about": {
+      "name": "Nurul Ain", 
+      "introduction": "As an ex-preschool teacher, teaching has been my passion.", 
+      "age": 28, 
+      "spokenLanguage": "English, Malay", 
+      "yearsOfExperience": 2
+  },
+  "services": [ 
+      {
+      "service": "Baby Swimming Lessons",
+      "serviceDescription": "Babies can start swimming at the age of 6 months old."
+  },
+      {
+      "service": "Toddler Swimming Lessons",         
+      "serviceDescription": "Toddlers can naturally be aquainted with water at a young age."
+  }, 
+      {
+      "service": "Special Needs Swimming Lesson",
+      "serviceDescription": "Special needs are a group of learners that are often forgotten."
+      }
+  ],
+  "accredidations": [
+      {
+          "certification": "Teacher of Swimming & Water Safety",
+          "organisation": "AustSwim"
+      },
+      {
+          "certification": "Teacher of Infant & Preschool",
+          "organisation": "AustSwim"
+      },
+      {
+          "certification": "Teacher of Special Needs",
+          "organisation": "AustSwim"
+      },
+      {
+          "certification": "National Registry of Coaches",
+          "organisation": "Sport Singapore"
+      },
+      {
+          "certification": "Certificate in Special Needs Support",
+          "organisation": "National Institude of Education"
+      },
+      {
+          "certification": "Certificate in Special Needs Education",
+          "organisation": "Academy of Certified Counsellors"
+      }
+  ], 
+  "testimonial": [
+      {
+          "rating": 5, 
+          "comment": "Love Teacher Nurul, truly an experienced special needs teacher.", 
+          "name": "Amy"
+      },
+      {
+          "rating": 2, 
+          "comment": "Teacher Nurul is not experienced enough in handling my autistic boy.", 
+          "name": "Sally"
+      },
+      {
+          "rating": 5, 
+          "comment": "Highly recommend Teacher Nurul.", 
+          "name": "Wilbert"
+      }
+  ]
+}
